@@ -62,5 +62,5 @@ Development of software which manages file servers
 
 - [Twitter](https://twitter.com/koh_sh)
 - [Github](https://github.com/koh-sh)
-- [blog](https://koh-sh.hatenablog.com)
+- [hatenablog](https://koh-sh.hatenablog.com)
 - [Qiita](https://qiita.com/koh-sh)
