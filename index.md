@@ -1,4 +1,4 @@
-# Career history
+# CAREER HISTORY
 
 ## Company A in Tokyo (Jan 2018 - )
 
@@ -45,11 +45,11 @@ Development of software which manages file servers
 - ITIL® Foundation Certificate in IT Service Management (Mar 2016)
 - TOEIC 940 (Mar 2017)
 
-# Education 
+# EDUCATION 
 
 - Bachelor of Industrial Engineering (2014)
 
-# Interests
+# INTERESTS
 
 - Ansible
 - DevOps
@@ -58,7 +58,7 @@ Development of software which manages file servers
 - Linux
 - System Monitoring
 
-# Accounts
+# ACCOUNTS
 
 - [Twitter](https://twitter.com/koh_sh)
 - [Github](https://github.com/koh-sh)
