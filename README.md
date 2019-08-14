@@ -1,4 +1,4 @@
 # cv
 
 This is my simple cv.  
-Please refer to https://koh-sh.github.io/cv/
+Please refer to https://cv.koh-sh.com
