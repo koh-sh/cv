@@ -56,7 +56,7 @@ Development of software which manages file servers
 - Automation
 - Python
 - Linux
-- System Monitoring
+- Container
 
 # ACCOUNTS
 
