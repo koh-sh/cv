@@ -2,13 +2,13 @@
 
 ## Company A in Tokyo (Jan 2018 - )
 
-### System Administrator for Linux Environment
+### Linux System Administrator
 
 - Manage and operate Linux servers on on-premises and cloud 
 - Automate delivery processes 
 - Manage configuration 
 - Monitor systems 
-- participate in on-call shift
+- Participate in on-call shift
 
 ## Company B in Tokyo (Aug 2015 - Dec 2017)
 
@@ -29,7 +29,7 @@ Development of software which manages file servers
 - Verify new functions and specifications 
 - Run regression test
 
-## A Hotel in Lake Louise, Canada (Jun 2014 - Mar 2015)
+## Hotel A in Lake Louise, Canada (Jun 2014 - Mar 2015)
 
 ### Dishwasher
 
@@ -51,11 +51,11 @@ Development of software which manages file servers
 
 # INTERESTS
 
-- Ansible
 - DevOps
+- Ansible
 - Automation
+- CI/CD
 - Python
-- Linux
 - Container
 
 # ACCOUNTS
