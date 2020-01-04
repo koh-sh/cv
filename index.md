@@ -20,7 +20,6 @@ A project of developing AI Chat Service
 - Troubleshooting
 - Be a communication path with co-development company in the USA
 - Facilitate teleconference with the co-development company
-- Manage tasks with tickets and emails
 
 ### Software Engineer (Oct 2015 - Feb 2016)
 
@@ -32,12 +31,6 @@ Development of software which manages file servers
 ## Hotel A in Lake Louise, Canada (Jun 2014 - Mar 2015)
 
 ### Dishwasher
-
-- Wash plates and kitchen equipment
-- Do prep for meals
-- Clean the kitchen
-- Help other cooks and chefs
-- Train new staffs
 
 # QUALIFICATIONS
 
