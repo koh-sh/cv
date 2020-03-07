@@ -12,7 +12,7 @@
 
 ## Company B in Tokyo (Aug 2015 - Dec 2017)
 
-### Infrastructure Engineer / Project Coordinator (Mar 2016 - Dec 2017)
+### Infrastructure Engineer (Mar 2016 - Dec 2017)
 A project of developing AI Chat Service  
 
 - Manage and operate Linux servers on cloud
@@ -21,7 +21,7 @@ A project of developing AI Chat Service
 - Be a communication path with co-development company in the USA
 - Facilitate teleconference with the co-development company
 
-### Software Engineer (Oct 2015 - Feb 2016)
+### System Engineer (Oct 2015 - Feb 2016)
 
 Development of software which manages file servers 
 
@@ -32,11 +32,12 @@ Development of software which manages file servers
 
 ### Dishwasher
 
+
 # QUALIFICATIONS
 
-- LPIC Level2 (Feb 2016)
-- ITIL® Foundation Certificate in IT Service Management (Mar 2016)
 - TOEIC 940 (Mar 2017)
+- ITIL® Foundation Certificate in IT Service Management (Mar 2016)
+- LPIC Level2 (Feb 2016)
 
 # EDUCATION 
 
@@ -57,4 +58,3 @@ Development of software which manages file servers
 - [GitHub](https://github.com/koh-sh)
 - [hatenablog](https://koh-sh.hatenablog.com)
 - [dev.to](https://dev.to/koh_sh)
-- [Qiita](https://qiita.com/koh-sh)
