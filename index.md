@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # CAREER HISTORY
 
 ## Company A in Tokyo (Jan 2018 - )
@@ -13,7 +17,6 @@
 ## Company B in Tokyo (Aug 2015 - Dec 2017)
 
 ### Infrastructure Engineer (Mar 2016 - Dec 2017)
-A project of developing AI Chat Service  
 
 - Manage and operate Linux servers on cloud
 - Automate delivery processes
@@ -22,8 +25,6 @@ A project of developing AI Chat Service
 - Facilitate teleconference with the co-development company
 
 ### System Engineer (Oct 2015 - Feb 2016)
-
-Development of software which manages file servers 
 
 - Verify new functions and specifications 
 - Run regression test
@@ -47,10 +48,11 @@ Development of software which manages file servers
 # INTERESTS
 
 - DevOps
-- Ansible
-- Automation
+- Site Reliability Engineering
 - CI/CD
+- Automation
 - Python
+- Ansible
 - Container
 
 # ACCOUNTS
