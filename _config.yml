@@ -1,1 +1,5 @@
 theme: jekyll-theme-minimal
+title: koh-sh
+description: Curriculum Vitae
+show_downloads: false
+logo: /images/logo.jpg
