@@ -35,6 +35,7 @@ Development of software which manages file servers
 
 # QUALIFICATIONS
 
+- Practical Algorithm Skill Test (PAST), Advanced Beginner (May 2020)
 - TOEIC 940 (Mar 2017)
 - ITIL® Foundation Certificate in IT Service Management (Mar 2016)
 - LPIC Level2 (Feb 2016)
