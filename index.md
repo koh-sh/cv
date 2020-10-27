@@ -33,6 +33,9 @@ layout: default
 
 ### Dishwasher
 
+- Wash Dishes and kitchen equipment
+- Assist in food prep and any other duties
+- Train new staffs
 
 # QUALIFICATIONS
 
