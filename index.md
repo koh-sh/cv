@@ -39,24 +39,37 @@ layout: default
 
 # QUALIFICATIONS
 
-- Practical Algorithm Skill Test (PAST), Advanced Beginner (May 2020)
-- TOEIC 940 (Mar 2017)
-- ITIL® Foundation Certificate in IT Service Management (Mar 2016)
-- LPIC Level2 (Feb 2016)
+- [May 2020] Practical Algorithm Skill Test (PAST), Advanced Beginner
+- [Mar 2017] TOEIC 940
+- [Mar 2016] ITIL® Foundation Certificate in IT Service Management
+- [Feb 2016] LPIC Level2
 
-# EDUCATION 
+# EDUCATION
 
 - Bachelor of Industrial Engineering (2014)
 
-# INTERESTS
+# SKILLS
 
-- DevOps
-- Site Reliability Engineering
+- OS
+  - CentOS 7 (5y)
+  - Red Hat Enterprise Linux 7 (2y)
+- Cloud
+  - IDCF Cloud (3y)
+  - AWS (1y)
+- Language
+  - Python (3y)
+  - Bash (3y)
+- IaC
+  - Ansible (5y)
+  - Ansible Tower (1y)
+  - Chef (3y)
+  - ServerSpec (1y)
 - CI/CD
-- Automation
-- Python
-- Ansible
-- Container
+  - Jenkins (3y)
+  - CircleCI (1y)
+- Monitoring
+  - Mackerel (3y)
+  - Pagerduty (3y)
 
 # ACCOUNTS
 
