@@ -1,6 +1,11 @@
 ---
 layout: default
+title: koh-sh's CV
 ---
+
+# SUMMARY
+
+System Administrator with 5+ years of experience in Linux system operation. Skilled at managing servers and system monitoring. Especially good at automating various tasks with tools like Ansible, CircleCI or scripts.
 
 # CAREER HISTORY
 
