@@ -9,7 +9,11 @@ System Administrator with 5+ years of experience in Linux system operation. Skil
 
 # CAREER HISTORY
 
-## Company A in Tokyo (Jan 2018 - )
+## Company A in Tokyo (Jul 2021 - )
+
+### Site Reliability Engineer
+
+## Company B in Tokyo (Jan 2018 - Jun 2021)
 
 ### Linux System Administrator
 
@@ -19,7 +23,7 @@ System Administrator with 5+ years of experience in Linux system operation. Skil
 - Monitor systems 
 - Participate in on-call shift
 
-## Company B in Tokyo (Aug 2015 - Dec 2017)
+## Company C in Tokyo (Aug 2015 - Dec 2017)
 
 ### Infrastructure Engineer (Mar 2016 - Dec 2017)
 
