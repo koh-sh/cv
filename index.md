@@ -13,14 +13,19 @@ System Administrator with 5+ years of experience in Linux system operation. Skil
 
 ### Site Reliability Engineer
 
+- Manage and operate Linux servers and containers on AWS
+- Test and monitor performance of own services
+- Automate delivery processes
+- Monitor systems
+
 ## Company B in Tokyo (Jan 2018 - Jun 2021)
 
 ### Linux System Administrator
 
-- Manage and operate Linux servers on on-premises and cloud 
-- Automate delivery processes 
-- Manage configuration 
-- Monitor systems 
+- Manage and operate Linux servers on on-premises and cloud
+- Automate delivery processes
+- Manage configuration
+- Monitor systems
 - Participate in on-call shift
 
 ## Company C in Tokyo (Aug 2015 - Dec 2017)
@@ -35,7 +40,7 @@ System Administrator with 5+ years of experience in Linux system operation. Skil
 
 ### System Engineer (Oct 2015 - Feb 2016)
 
-- Verify new functions and specifications 
+- Verify new functions and specifications
 - Run regression test
 
 ## Hotel A in Lake Louise, Canada (Jun 2014 - Mar 2015)
@@ -59,30 +64,19 @@ System Administrator with 5+ years of experience in Linux system operation. Skil
 
 # SKILLS
 
-- OS
-  - CentOS 7 (5y)
-  - Red Hat Enterprise Linux 7 (2y)
-- Cloud
-  - IDCF Cloud (3y)
-  - AWS (1y)
-- Language
-  - Python (3y)
-  - Bash (3y)
-- IaC
-  - Ansible (5y)
-  - Ansible Tower (1y)
-  - Chef (3y)
-  - ServerSpec (1y)
-- CI/CD
-  - Jenkins (3y)
-  - CircleCI (1y)
-- Monitoring
-  - Mackerel (3y)
-  - Pagerduty (3y)
+|Categoly|Names|
+|:--|:--|
+|OS|CentOS 7 / Red Hat Enterprise Linux 7 / Amazon Linux 2|
+|Cloud|AWS / IDCF Cloud|
+|Programming|Python / Bash|
+|IaC|Ansible / Chef / ServerSpec / Terraform / AWS CDK|
+|CI/CD|Jenkins / CircleCI|
+|Monitoring| Mackerel / Pagerduty / Datadog / Sentry|
+|Misc| Docker / GitHub / Slack / Jira / Confluence|
 
 # ACCOUNTS
 
 - [Twitter](https://twitter.com/koh_sh)
 - [GitHub](https://github.com/koh-sh)
-- [hatenablog](https://koh-sh.hatenablog.com)
+- Blog ([new](https://blog.koh-sh.com) / [old](https://koh-sh.hatenablog.com))
 - [dev.to](https://dev.to/koh_sh)
