@@ -3,6 +3,8 @@ layout: default
 title: koh-sh's CV
 ---
 
+[[日本語はこちら]](./jp)
+
 # SUMMARY
 
 I have been working as Site Reliability Engineer for a year. Before that, I worked as Linux System Administrator for 5+ years.  
